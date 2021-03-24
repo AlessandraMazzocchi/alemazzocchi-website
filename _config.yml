@@ -21,7 +21,7 @@
 title: Welcome to Alessandra's website!
 email: alessandramazzocchi4@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/alemazzocchi-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: alemazzocchi_real
 linkedin_username:  alessandramazzocchi0693
