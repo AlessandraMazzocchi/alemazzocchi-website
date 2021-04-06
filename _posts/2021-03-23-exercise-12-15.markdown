@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Exercise 12-15: Quantification II, Cleaning II, Visualization II, Sharing II"
+date:   2021-04-02 20:03:41 -0400
+categories: jekyll update
+---
+Seeing the last 4 exercises of the semester and reflecting on the the nature of them, I decided to do a comprehensive reflection with a step-by-step description of the semester-long learning process - obstacles and problems (lots of them!) included!
+<br>
+The starting point of this semester was a clear, burning passion for digital tools; I was not sure about the "where" I wanted to go with the class, I was sure of the "what" this class would be helpful with. My primary objective was to get a great deal of out the tools, instead of working solely on my Augmented Reality and Mixed Reality research. For these reasons, the plain text I chose at the beginning of the semester fell into a completely different category than my actual research: the Social Register, a list of names, addresses, and dates.
+<br>
+# Open Format II and Cleaning II
+<br>
+These are the files I mostly worked on during the semester. I tried to clean them as much as possible, learning in the process while making mistakes.
+<br>
+<br>
+[Social Register 1918 Sample](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/social_register_1918_sample.txt)
+<br>
+<br>
+[Social Register 1919 Sample](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/social_register_1919.txt)
+<br>
+<br>
+The original files presented an incredible number of problems, inconsistency was only the first and the biggest one among all the others. Moreover, the files presents a massive amount of text so I decided to clean a small portion to submit as an example of cleaning and open format.
+<br>
+<br>
+
+# Quantification II
+<br>
+<br>
+[R workbook](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/rstudio_console_ex_feb_24.txt)
+<br>
+<br>
+Not surprisingly, the table from R was not as satisfying as others; however, the interesting process consisted in using R programing language and learning the steps from a blank workbook to a basic table form an existing file.
+<br>
+<br>
+Finally, my primary interest was not reproducing a perfect table in R but the process of leading the libraries, breaking down the commands to create graphs and also R syntax. So, for me, not getting to a conclusion but making more mistakes than I could count was a winning situation.
+<br>
+<br>
+
+# Visualization II
+<br>
+<br>
+[Google Data Studio - Report](https://datastudio.google.com/s/nqG_ytgcqRE) 
+<br>
+<br>
+
+# Sharing II
+<br>
+<br>
+So this is it! The (end?) of the beginning of a learning process that still has a long way to go and more mistakes that I can potentially count in using the tools presented this semester.
+<br>
+<br>
