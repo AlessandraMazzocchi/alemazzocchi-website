@@ -1,37 +1,3 @@
----
-layout: post
-title:  "The Social Register: Summer 1918 and 1919"
-date:   2021-03-23 20:03:41 -0400
-categories: jekyll update
----
-
-These are the files I mostly worked on during the semester. I tried to clean them as much as possible, learning in the process while making mistakes.
-<br>
-<br>
-[Social Register 1918 Sample](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/social_register_1918_sample.txt)
-<br>
-<br>
-[Social Register 1919 Sample](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/social_register_1919.txt)
-<br>
-<br>
-The original idea that started this project was to compare how the Spanish Flu pandemic impacted New York City over the span of one year, especially in the Summer when New Yorkers move from the city residences to the summer residences. 
-<br>
-<br>
-The main issue in making the plain text "readable" for further research was cleaning it. Being such an irregular text with different annotation - clearly from the beginning of last century - the cleaning process took a considerable amount of time with regular expressions. For these reasons, I arbitrarely decided to properly clean only a sample and release it for public use and potential further research. For the cleaning portion, I used basic regular expressions for the alphabetical order and mostly cleaning manually because the plain text does _not_ present a clear pattern which can be replicated for the cleaning process. My personal suggestion would be to break the text into sections of 3-4 pages at time and go through each single line to make sure the result is satisfactory or, at least, compliant with the research.
-<br>
-<br>
-As mentioned before, being such an irregular text stands as a huge obstacle even for creating a data dictionary; however, this is what the user would find in the samples. It can be noticed that it is not possible to draw a clear line and define columns, categories, or selections due to the extreme irregularity of the text:
-<br>
-<br>
-* Most common: Last and first name, date, address
-* Last and first name, (Last and first name of husband or wife), date, address 
-* Last and first name, "Married to last and first name", date, address
-* Varieties from the previous 3
-<br>
-<br>
-# DATA DICTIONARY: Social Register: New York, Summer 1918
-<br>
-
 |Social Register 1918 Sample                                                                                                                                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Adams N' Ambrose R, Died at 375 Park Av Jun 9-Noor                                                                                                                                           |
@@ -79,4 +45,3 @@ As mentioned before, being such an irregular text stands as a huge obstacle even
 |Benney n" George A (Eugenia P Hill).. "Rockledge Farm”                                                                                                                                       |
 |Benney Viss Helen H.                                                                                                                                                                         |
 |Benney Philip P Sewickley Hgts This is Mins Geo A Jr & Morris C...Sewickley Pa-Ruteh South Tash DC                                                                                           |
-
