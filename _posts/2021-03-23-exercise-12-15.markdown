@@ -1,51 +1,94 @@
 ---
 layout: post
-title:  "Exercise 12-15: Quantification II, Cleaning II, Visualization II, Sharing II"
+title:  "The Summer 1918/1919 NYC Social Register: What's Next?"
 date:   2021-04-02 20:03:41 -0400
 categories: jekyll update
 ---
-Seeing the last 4 exercises of the semester and reflecting on the the nature of them, I decided to do a comprehensive reflection with a step-by-step description of the semester-long learning process - obstacles and problems (lots of them!) included!
+
+# What's next?
 <br>
-The starting point of this semester was a clear, burning passion for digital tools; I was not sure about the "where" I wanted to go with the class, I was sure of the "what" this class would be helpful with. My primary objective was to get a great deal of out the tools, instead of working solely on my Augmented Reality and Mixed Reality research. For these reasons, the plain text I chose at the beginning of the semester fell into a completely different category than my actual research: the Social Register, a list of names, addresses, and dates.
-<br>
-# Open Format II and Cleaning II
-<br>
-These are the files I mostly worked on during the semester. I tried to clean them as much as possible, learning in the process while making mistakes.
+Reflecting on the the nature of the Social Register as plain text and data source, I believe that the research potential of these files is infinite, not only as files but as source of information for future projects.
 <br>
 <br>
-[Social Register 1918 Sample](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/social_register_1918_sample.txt)
-<br>
-<br>
-[Social Register 1919 Sample](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/social_register_1919.txt)
-<br>
-<br>
-The original files presented an incredible number of problems, inconsistency was only the first and the biggest one among all the others. Moreover, the files presents a massive amount of text so I decided to clean a small portion to submit as an example of cleaning and open format.
+Due to time constraints and external factors, my specific research focused more on learning the tools than having a lifelong project, which includes deep cleaning, visuals, graphics, etc. However, sharing a jump start for future research gave this project a sense of completeness. Not only it allowed me to learn the **open source** tools available on the market like Voyant, Google Data Studio, OpenRefine, etc., but also it helps future scholars or aficionado to get a sense of what the Social Register is and what potential has. But where is it the Social Register?
 <br>
 <br>
 
-# Quantification II
+## Further research and projects
+
 <br>
-<br>
-[R workbook](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/rstudio_console_ex_feb_24.txt)
-<br>
-<br>
-Not surprisingly, the table from R was not as satisfying as others; however, the interesting process consisted in using R programing language and learning the steps from a blank workbook to a basic table form an existing file.
-<br>
-<br>
-Finally, my primary interest was not reproducing a perfect table in R but the process of leading the libraries, breaking down the commands to create graphs and also R syntax. So, for me, not getting to a conclusion but making more mistakes than I could count was a winning situation.
+The Social Register Summer 1918 and The Social Register Summer 1919 can be found on HathiTrust website.
 <br>
 <br>
 
-# Visualization II
+[Social Register Summer 1918](https://babel.hathitrust.org/cgi/pt?id=uc1.$b534244&view=thumb&seq=659)
 <br>
+[Social Register Summer 1919](https://babel.hathitrust.org/cgi/pt?id=uc1.$b534245&view=thumb&seq=1)
 <br>
-[Google Data Studio - Report](https://datastudio.google.com/s/nqG_ytgcqRE) 
+
+Being an early 19th century report, it was extremely complicated to clean and it required 70% of manual cleaning, line by line. Moreover, it has very little to no structure in term of organization of names, addresses, general info, etc. as it can be seen in this brief sample:
 <br>
 <br>
 
-# Sharing II
+|Social Register 1918 Sample                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Adams N' Ambrose R, Died at 375 Park Av Jun 9-Noor                                                                                                                                           |
+|Adams M** Elbridge L (Strong-Margaret Hubbard), absent                                                                                                                                       |
+|M** Rob’t M Hubbard (Mary A de Veau)..                                                                                                                                                       |
+|Adams I' Elbridge L., Williamstown                                                                                                                                                           |
+|Adams Miss Emily B., Mass-Nork                                                                                                                                                               |
+|Adams M' Elbridge 2d-USA.AmC.AEF..                                                                                                                                                           |
+|Adams N" Fred'k Thompson (Maud Witherbee) "King's X" Del Mar, Cal-Nowork                                                                                                                     |
+|Adams N" Geo W (Elizabeth De Wolf Andrews), Died at Bristol R I Jun 5-Pand                                                                                                                   |
+|Adams Ensign&N** Wm H (Mary C Miner), USN. Nantucket Mass-Noork                                                                                                                              |
+|Agate M&M" Fred'c J (Helen W Smith), Norfolk Ct. N' care Red Cross Amb Milan Italy-Nestek                                                                                                    |
+|Alexander Miss Helen G(HyM) Married at St Thomas's Chant Rhinelander Lt Philip Kip-USA. (Philip), Jun 18-Neck Anderson N' Chas Armstrong Jr (Chas A) USA......Married Rolfe Niss Florence A..|
+|Jun 20-Purgh                                                                                                                                                                                 |
+|Anderson Lt&N**ChasArmstrong Jr(FlorenceARolfe), USA.OD.The Lenox Phia – Pátirgh                                                                                                             |
+|Anderton 1" Wm B (Elizabeth S Palmer), Php 361 Post House                                                                                                                                    |
+|Anderton Miss Dorothy & Jhors Miss Ruth, Ridgefield Ct-N**                                                                                                                                   |
+|Arents 1" George (Annie Walter), Southampton L I-Nirk                                                                                                                                        |
+|Armstrong MEN" J Sinclair (Lizzie H Welsh), Phone 369                                                                                                                                        |
+|Armstrong Miss Elizabeth Howard, York                                                                                                                                                        |
+|Harbor                                                                                                                                                                                       |
+|Armstrong Lt Wm, C-USA.FA.AEF Me-Nork                                                                                                                                                        |
+|Armstrong Sergt Geo Alex, USA FA 954 York                                                                                                                                                    |
+|Atterbury Maj&\"* Howard E (Faith Ripley) USA.AEF. Norwich Ct-Noork                                                                                                                          |
+|Atwood Miss Elizabeth R (JW) . Married at Anniston Ala Duer Lt Edw L 2d-USA. (S Naudain). ...... Jun 10-Phila                                                                                |
+|Auchincloss MKM" John (Grace Eginton) PhQ223..“Antiquity” Quogue L I-Noork                                                                                                                   |
+|Ayer Niss Margaret (Ned E). Married at Trinity Hayden Capt John-USA..Jun 15-Port                                                                                                             |
+|Baer N Francis Shaw (John W) Married at den Drummond is Georgiana (Harrison 1) ... May 31-Scalin                                                                                             |
+|Baer M** Mildred (John W). Married at der Davis Ensign Rich'd Davis -USN. . May 31-Seat                                                                                                      |
+|Baker N' Jas Barnes... Married at Heavenly Rest Clark /** Franklin H (M Lindsay Poor).... May 20-Neek                                                                                        |
+|Baker M Jas Barnes. Died at Roosevelt Hosp Jun 3-Nork Baker Mi Sarah A (Louis C Jr)..Married at Bala Pa                                                                                      |
+|Bell I'' John C Jr (John C).. Jun 29-PhiBa                                                                                                                                                   |
+|Baldwin LtRobert-USA.(FrankF). Married atCambridge Mass Benedict Miss Frances (late Geo W).. Jun 5-Bion                                                                                      |
+|Baldwin MEN" Wm M (Lydia P Cowl). Ph 1003                                                                                                                                                    |
+|Baldwin Mis Dorothy & Mary.. Garden City                                                                                                                                                     |
+|Baldwin N' John C-USA.AEF. L I-Nork Ensign& l*Francis WMurray Jr(AliceBaldwin).                                                                                                              |
+|Barney MM J Stewart (Mary Alice Van "Black Point Farm” Jens Miss May....[Nest)&#124; Newport R I-Noork                                                                                            |
+|Batchelor Asst Paym Bronson-USN. Married Steinway Miss Marie LM (Chas H). Jun 1-Nerak                                                                                                        |
+|Beatty Maj John Cabeen-USA.. Married at Trinity Morrison Miss Jean (AA) Jun 15-Port                                                                                                          |
+|Beggs Lt Percy W-USA.. Married at Pama Shaffer Niss Jean. Jun 5-Scalit                                                                                                                       |
+|Bell NJohn C Jr (John C). Married at Bala Pa                                                                                                                                                 |
+|Baker Miss Sarah A (Louis C Jr). Jun 29-PhiBa                                                                                                                                                |
+|Benedict Mi Frances(late Geo W).. Married at Cambridge Mass                                                                                                                                  |
+|Baldwin Lt Robert-USA. (Frank F). ... Jun 5-Bron Bennett Miss Amy (Ira E)..Married at 1614-19 Langlais NClaude.. Jun 15-W                                                                    |
+|Benney n" George A (Eugenia P Hill).. "Rockledge Farm”                                                                                                                                       |
+|Benney Viss Helen H.                                                                                                                                                                         |
+|Benney Philip P Sewickley Hgts This is Mins Geo A Jr & Morris C...Sewickley Pa-Ruteh South Tash DC                                                                                           |
+
 <br>
 <br>
-So this is it! The (end?) of the beginning of a learning process that still has a long way to go and more mistakes that I can potentially count in using the tools presented this semester.
+Due to the nature of the data, it would be appropriate to consider a collaborative project for future research, maybe continuing this project of comparing 1918 and 1919 mortality due to the Spanish Flu. I believe that the data can disclose important information with a collaborative research, funding, and more time availability. 
 <br>
 <br>
+For further completeness, here are some suggested tools that could be helpful for further research:
+<br>
+
+- [Sublime Text](https://www.sublimetext.com/)
+- [RegEx](https://regexr.com/)
+- [Voyant](https://voyant-tools.org/)
+- [OpenRefine](https://openrefine.org/)
+- [RStudio](https://www.rstudio.com/)
+- [Jekyll](https://jekyllrb.com/)
