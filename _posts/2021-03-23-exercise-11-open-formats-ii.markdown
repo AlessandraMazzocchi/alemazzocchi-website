@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exercise 11: Open Formats II"
+title:  "The Social Register: Summer 1918 and 1919"
 date:   2021-03-23 20:03:41 -0400
 categories: jekyll update
 ---
@@ -11,3 +11,6 @@ These are the files I mostly worked on during the semester. I tried to clean the
 <br>
 <br>
 [Social Register 1919 Sample](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/social_register_1919.txt)
+<br>
+<br>
+The original idea that started this project was to compare how the Spanish Flu pandemic impacted New York City over the span of one year 
