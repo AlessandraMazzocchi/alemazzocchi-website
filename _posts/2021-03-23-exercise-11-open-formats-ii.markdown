@@ -28,8 +28,7 @@ As mentioned before, being such an irregular text stands as a huge obstacle even
 * Varieties from the previous 3
 <br>
 <br>
-
-It can be noticed that it is not possible to draw a clear line and define columns, categories, selection due to the extreme irregularity of the text.
+<p> It can be noticed that it is not possible to draw a clear line and define columns, categories, selection due to the extreme irregularity of the text.</p>
 <br>
 <br>
 # DATA DICTIONARY
