@@ -19,16 +19,13 @@ The original idea that started this project was to compare how the Spanish Flu p
 The main issue in making the plain text "readable" for further research was cleaning it. Being such an irregular text with different annotation - clearly from the beginning of last century - the cleaning process took a considerable amount of time with regular expressions. For these reasons, I arbitrarely decided to properly clean only a sample and release it for public use and potential further research.
 <br>
 <br>
-As mentioned before, being such an irregular text stands as a huge obstacle even for creating a data dictionary; however, this is what the user would find in the samples:
+As mentioned before, being such an irregular text stands as a huge obstacle even for creating a data dictionary; however, this is what the user would find in the samples. It can be noticed that it is not possible to draw a clear line and define columns, categories, selection due to the extreme irregularity of the text:
 <br>
 <br>
 * Most common: Last and first name, date, address
 * Last and first name, (Last and first name of husband or wife), date, address 
 * Last and first name, "Married to last and first name", date, address
 * Varieties from the previous 3
-<br>
-<br>
-<p> It can be noticed that it is not possible to draw a clear line and define columns, categories, selection due to the extreme irregularity of the text.</p>
 <br>
 <br>
 # DATA DICTIONARY
