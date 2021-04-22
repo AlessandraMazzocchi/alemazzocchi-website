@@ -8,7 +8,7 @@ Topic modeling has never been a field I excelled at, especially because of the s
 Having a list of items, it is pretty complicated to create an organic set of topics but it was refreshing to see it working in some kind of way with my primary text files.
 <br>
 <br>
-[Image 1](/assets/img_text_mining/social_register_topmod_1918.png)
-[Image 2](/assets/img_text_mining/social_register_topmod_1919.png)
+![](/assets/img_text_mining/social_register_topmod_1918.png)
+![](/assets/img_text_mining/social_register_topmod_1919.png)
 <br>
 <br>
