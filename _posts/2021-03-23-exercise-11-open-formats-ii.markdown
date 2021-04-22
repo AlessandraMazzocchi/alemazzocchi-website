@@ -31,6 +31,8 @@ As mentioned before, being such an irregular text stands as a huge obstacle even
 # DATA DICTIONARY
 <br>
 <br>
+| Social Register: New York, 1918																								 |
+|--------------------------------------------------------------------------------------------------------------------------------|
 | Adams M** Elbridge L (Strong-Margaret Hubbard), absent 																		 |
 | M** Rob’t M Hubbard (Mary A de Veau).. 																						 |
 | Adams I' Elbridge L., Williamstown  																							 |
