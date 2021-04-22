@@ -16,10 +16,10 @@ These are the files I mostly worked on during the semester. I tried to clean the
 The original idea that started this project was to compare how the Spanish Flu pandemic impacted New York City over the span of one year, especially in the Summer when New Yorkers move from the city residences to the summer residences. 
 <br>
 <br>
-The main issue in making the plain text "readable" for further research was cleaning it. Being such an irregular text with different annotation - clearly from the beginning of last century - the cleaning process took a considerable amount of time with regular expressions. For these reasons, I arbitrarely decided to properly clean only a sample and release it for public use and potential further research.
+The main issue in making the plain text "readable" for further research was cleaning it. Being such an irregular text with different annotation - clearly from the beginning of last century - the cleaning process took a considerable amount of time with regular expressions. For these reasons, I arbitrarely decided to properly clean only a sample and release it for public use and potential further research. For the cleaning portion, I used basic regular expressions for the alphabetical order and mostly cleaning manually because the plain text does _not_ present a clear pattern which can be replicated for the cleaning process. My personal suggestion would be to break the text into sections of 3-4 pages at time and go through each single line to make sure the result is satisfactory or, at least, compliant with the research.
 <br>
 <br>
-As mentioned before, being such an irregular text stands as a huge obstacle even for creating a data dictionary; however, this is what the user would find in the samples. It can be noticed that it is not possible to draw a clear line and define columns, categories, selection due to the extreme irregularity of the text:
+As mentioned before, being such an irregular text stands as a huge obstacle even for creating a data dictionary; however, this is what the user would find in the samples. It can be noticed that it is not possible to draw a clear line and define columns, categories, or selections due to the extreme irregularity of the text:
 <br>
 <br>
 * Most common: Last and first name, date, address
