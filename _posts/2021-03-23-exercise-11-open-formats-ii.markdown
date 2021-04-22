@@ -4,7 +4,7 @@ title:  "The Social Register: Summer 1918 and 1919"
 date:   2021-03-23 20:03:41 -0400
 categories: jekyll update
 ---
-<p>These are the files I mostly worked on during the semester. I tried to clean them as much as possible, learning in the process while making mistakes.
+These are the files I mostly worked on during the semester. I tried to clean them as much as possible, learning in the process while making mistakes.
 <br>
 <br>
 [Social Register 1918 Sample](https://github.com/comp-methods-fsu-2021/computational_methods_sp21/blob/main/social_register_1918_sample.txt)
@@ -26,13 +26,11 @@ As mentioned before, being such an irregular text stands as a huge obstacle even
 * Last and first name, (Last and first name of husband or wife), date, address 
 * Last and first name, "Married to last and first name", date, address
 * Varieties from the previous 3
-</p>
 <br>
 <br>
 # DATA DICTIONARY
 <br>
 <br>
-<p>
 ## Social Register: New York, 1918
 <br>
 <br>
@@ -79,4 +77,3 @@ Baldwin Lt Robert-USA. (Frank F). ... Jun 5-Bron Bennett Miss Amy (Ira E)..Marri
 Benney n" George A (Eugenia P Hill).. "Rockledge Farm” 
 Benney Viss Helen H. 
 Benney Philip P Sewickley Hgts This is Mins Geo A Jr & Morris C...Sewickley Pa-Ruteh South Tash DC
-</p>
