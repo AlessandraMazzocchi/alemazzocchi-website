@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exercise 10: Categorization"
+title:  "Wikidata: Augmented Reality and its novelty"
 date:   2021-03-09 10:30:30 -0500
 categories: jekyll update
 ---

@@ -28,52 +28,92 @@ As mentioned before, being such an irregular text stands as a huge obstacle even
 * Varieties from the previous 3
 <br>
 <br>
-# DATA DICTIONARY
-<br>
-<br>
-## Social Register: New York, 1918
+## DATA DICTIONARY: Social Register: New York, 1918
 <br>
 <br>
 Adams M** Elbridge L (Strong-Margaret Hubbard), absent 
+<br>
 M** Rob’t M Hubbard (Mary A de Veau).. 
+<br>
 Adams I' Elbridge L., Williamstown  
+<br>
 Adams Miss Emily B., Mass-Nork  
+<br>
 Adams M' Elbridge 2d-USA.AmC.AEF.. 
+<br>
 Adams N" Fred'k Thompson (Maud Witherbee) "King's X" Del Mar, Cal-Nowork 	
+<br>
 Adams N" Geo W (Elizabeth De Wolf Andrews), Died at Bristol R I Jun 5-Pand 
+<br>
 Adams Ensign&N** Wm H (Mary C Miner), USN. Nantucket Mass-Noork 
+<br>
 Agate M&M" Fred'c J (Helen W Smith), Norfolk Ct. N' care Red Cross Amb Milan Italy-Nestek 
+<br>
 Alexander Miss Helen G(HyM) Married at St Thomas's Chant Rhinelander Lt Philip Kip-USA. (Philip), Jun 18-Neck Anderson N' Chas
+<br>
 Armstrong Jr (Chas A) USA......Married Rolfe Niss Florence A..Jun 20-Purgh 
+<br>
 Anderson Lt&N** ChasArmstrong Jr(FlorenceARolfe), USA.OD.The Lenox Phia – Pátirgh 
+<br>
 Anderton 1" Wm B (Elizabeth S Palmer), Php 361 Post House 
+<br>
 Anderton Miss Dorothy & Jhors Miss Ruth, Ridgefield Ct-N** 
+<br>
 Arents 1" George (Annie Walter), Southampton L I-Nirk
+<br>
 Armstrong MEN" J Sinclair (Lizzie H Welsh), Phone 369 
+<br>
 Armstrong Miss Elizabeth Howard, York Harbor
+<br>
 Armstrong Lt Wm, C-USA.FA.AEF Me-Nork 
+<br>
 Armstrong Sergt Geo Alex, USA FA 954 York
+<br>
 Atterbury Maj&\"* Howard E (Faith Ripley) USA.AEF. Norwich Ct-Noork
+<br>
 Atwood Miss Elizabeth R (JW) . Married at Anniston Ala Duer Lt Edw L 2d-USA. (S Naudain). ...... Jun 10-Phila
+<br>
 Auchincloss MKM" John (Grace Eginton) PhQ223..“Antiquity” Quogue L I-Noork 
+<br>
 Ayer Niss Margaret (Ned E). Married at Trinity Hayden Capt John-USA..Jun 15-Port 
+<br>
 Baer N Francis Shaw (John W) Married at den Drummond is Georgiana (Harrison 1) ... May 31-Scalin
+<br>
 Baer M** Mildred (John W). Married at der Davis Ensign Rich'd Davis -USN. . May 31-Seat
+<br>
 Baker N' Jas Barnes... Married at Heavenly Rest Clark /** Franklin H (M Lindsay Poor).... May 20-Neek
+<br>
 Baker M Jas Barnes. Died at Roosevelt Hosp Jun 3-Nork Baker Mi Sarah A (Louis C Jr)..Married at Bala Pa
+<br>
 Bell I'' John C Jr (John C).. Jun 29-PhiBa 
+<br>
 Baldwin LtRobert-USA.(FrankF). Married atCambridge Mass Benedict Miss Frances (late Geo W).. Jun 5-Bion
+<br>
 Baldwin MEN" Wm M (Lydia P Cowl). Ph 1003
+<br>
 Baldwin Mis Dorothy & Mary.. Garden City 
+<br>
 Baldwin N' John C-USA.AEF. L I-Nork Ensign& l* Francis WMurray Jr(AliceBaldwin). 
+<br>
 Barney MM J Stewart (Mary Alice Van "Black Point Farm” Jens Miss May....[Nest)| Newport R I-Noork
+<br>
 Batchelor Asst Paym Bronson-USN. Married Steinway Miss Marie LM (Chas H). Jun 1-Nerak
+<br>
 Beatty Maj John Cabeen-USA.. Married at Trinity Morrison Miss Jean (AA) Jun 15-Port 
+<br>
 Beggs Lt Percy W-USA.. Married at Pama Shaffer Niss Jean. Jun 5-Scalit 
+<br>
 Bell NJohn C Jr (John C). Married at Bala Pa 
+<br>
 Baker Miss Sarah A (Louis C Jr). Jun 29-PhiBa
+<br>
 Benedict Mi Frances(late Geo W).. Married at Cambridge Mass 
+<br>
 Baldwin Lt Robert-USA. (Frank F). ... Jun 5-Bron Bennett Miss Amy (Ira E)..Married at 1614-19 Langlais NClaude.. Jun 15-W 
+<br>
 Benney n" George A (Eugenia P Hill).. "Rockledge Farm” 
+<br>
 Benney Viss Helen H. 
-Benney Philip P Sewickley Hgts This is Mins Geo A Jr & Morris C...Sewickley Pa-Ruteh South Tash DC
+<br>
+Benney Philip P Sewickley Hgts This is Mins Geo A Jr & Morris C...Sewickley Pa-Ruteh South Tash DC<br>
+<br>
