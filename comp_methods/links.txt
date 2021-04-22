@@ -1,0 +1,4 @@
+https://cygwin.com/cgi-bin2/package-grep.cgi?grep=tesseract&arch=x86_64
+https://cheatography.com/davechild/cheat-sheets/regular-expressions/
+https://programminghistorian.org/en/lessons/automated-downloading-with-wget
+https://eternallybored.org/misc/wget/

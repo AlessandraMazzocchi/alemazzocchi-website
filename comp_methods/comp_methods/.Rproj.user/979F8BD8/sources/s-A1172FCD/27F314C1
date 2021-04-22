@@ -1,0 +1,32 @@
+{
+    "id": "27F314C1",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1614139256276.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "social_register_1918_sample_txt",
+        "caption": "social_register_1918_sample_txt",
+        "totalObservations": 55,
+        "displayedObservations": 55,
+        "variables": 1,
+        "cacheKey": "079BE24D",
+        "object": "social_register_1918_sample_txt",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=social_register_1918_sample_txt&cache_key=079BE24D&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7596291786896338028,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614139256276,
+    "read_only": false,
+    "read_only_alternatives": []
+}
