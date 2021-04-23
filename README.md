@@ -2,7 +2,7 @@
 
 ## Current material 
 <br>
-<br>
+
 - **2 .txt files: raw data**
 <br>
 
