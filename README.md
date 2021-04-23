@@ -43,12 +43,8 @@
 
 |    | Title                       |Author                  |Dates|Volume/Issue Number |Pages |URL                                                                    |
 |--- |---                          |---                     |---  |---                 |---   |---                                                                    |
-|1   |Social Register, Summer 1904 |New York, United States |1904 |Unique              |371   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534240&view=1up&seq=1     |
-|2   |Social Register, Summer 1910 |New York, United States |1910 |Unique              |394   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534241&view=thumb&seq=1   |
-|3   |Social Register, Summer 1916 |New York, United States |1916 |Unique              |810   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534242&view=thumb&seq=1   |
-|4   |Social Register, Summer 1917 |New York, United States |1917 |Unique              |730   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534243&view=thumb&seq=1   |
-|5   |Social Register, Summer 1918 |New York, United States |1918 |Unique              |672   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534244&view=thumb&seq=659 |
-|6   |Social Register, Summer 1919 |New York, United States |1919 |Unique              |682   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534245&view=thumb&seq=1   |
+|1   |Social Register, Summer 1918 |New York, United States |1918 |Unique              |672   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534244&view=thumb&seq=659 |
+|2   |Social Register, Summer 1919 |New York, United States |1919 |Unique              |682   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534245&view=thumb&seq=1   |
 <br>
 
 ## Goals and potential
