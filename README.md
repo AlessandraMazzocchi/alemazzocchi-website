@@ -2,25 +2,34 @@
 
 ## Current material 
 <br>
+<br>
 - **2 .txt files: raw data**
+<br>
 <br>
 [Social Register Summer 1918](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1918/social_register_1918.txt)
 <br>
 [Social Register Summer 1919](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1919/social_register_1919.txt)
 <br>
+<br>
 - **2 .txt files: cleaned samples**
 <br>
+<br>
 [Social Register Summer 1918 Sample](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1918/social_register_1918_sample.txt)
+<br>
 <br>
 [Social Register Summer 1919 Sample](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1919/social_register_1919_sample.txt)
 - **2 .csv files**
 <br>
+<br>
 [Social Register Summer 1918](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1918/social_register_sample_topmod_1918.png)
+<br>
 <br>
 [Social Register Summer 1919](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1919/social_register_topmod_1919.png)
 - **2 .png files: word counting (Voyant)**
 <br>
+<br>
 [Social Register 1918 Word Count](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1918/social_register_sample_topmod_1918.png)
+<br>
 <br>
 [Social Register 1919 Word Count](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1919/social_register_topmod_1919.png)
 
