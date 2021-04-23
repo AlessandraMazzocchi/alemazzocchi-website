@@ -41,12 +41,10 @@
 ### Bibliography
 <br>
 
-| Title                       |Author                  |Dates|Volume/Issue Number |Pages |URL                                                                    |
+| Title                            |Author                  |Dates|Volume/Issue Number |Pages |URL                                                                    |
 |--- |---                          |---                     |---  |---                 |---   |---                                                                    |
 |5   |Social Register, Summer 1918 |New York, United States |1918 |Unique              |672   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534244&view=thumb&seq=659 |
 |6   |Social Register, Summer 1919 |New York, United States |1919 |Unique              |682   |https://babel.hathitrust.org/cgi/pt?id=uc1.$b534245&view=thumb&seq=1   |
-
-
 <br>
 <br>
 
