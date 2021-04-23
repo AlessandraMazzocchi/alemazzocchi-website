@@ -2,7 +2,6 @@
 
 ## Current material 
 <br>
-
 - **2 .txt files: raw data**
 <br>
 [Social Register Summer 1918](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1918/social_register_1918.txt)
