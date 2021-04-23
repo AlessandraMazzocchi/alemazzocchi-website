@@ -22,10 +22,10 @@
 - **2 .csv files**
 <br>
 
-[Social Register Summer 1918](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1918/social_register_sample_topmod_1918.png)
+[Social Register Summer 1918](https://github.com/AlessandraMazzocchi/alemazzocchi-website/tree/main/comp_methods/the_social_register/social_register_1918)
 <br>
 
-[Social Register Summer 1919](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1919/social_register_topmod_1919.png)
+[Social Register Summer 1919](https://github.com/AlessandraMazzocchi/alemazzocchi-website/blob/main/comp_methods/the_social_register/social_register_1919/social_register_1919_sample.csv)
 - **2 .png files: word counting (Voyant)**
 <br>
 
